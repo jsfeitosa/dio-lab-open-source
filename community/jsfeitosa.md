@@ -1,42 +1,24 @@
-🎯 Objetivo
-O moodboard tem como finalidade:
+Olá, sou Janderson Feitosa! 👋
 
-Definir o tom visual e emocional do projeto
+Sobre mim
 
-Inspirar a criação de elementos gráficos, paleta de cores e identidade visual
+📚 Bacharel em Administração de empresas.
+📚 MBA em Gestão de Projetos e Processos
+👨‍💻 MBA em Business Intelligence
 
-Comunicar o conceito criativo com clareza para o time ou stakeholders
+Experiência
+💼 Trabalho atualmente como analista de dados na empresa CAIXA Consórcio na área de Marketing
+🔧 Minhas habilidades incluem:
+-Realizar estudos analíticos e segmentação de base com foco em marketing CRM e Digital.
+-Desenvolver e implementar modelos de análise de dados e comportamento dos clientes (Personas , RFV, NBO, propensão, Ciclo de vida) com objetivo de maximizar o tempo de vida dos clientes.
+-Construir relatórios gerencias em Power BI para tomada de decisão.
+-Responsável pela mensuração e performance das réguas de comunicação e Jornadas, campanhas de marketing digital.
+-Gerar relatórios de navegação de usuários nos portais CAIXA Consórcio.
 
-📂 Estrutura do repositório
-cpp
-Copiar
-Editar
-📁 moodboard/
-├── imagens/
-│   ├── conceito-01.jpg
-│   ├── textura-fundo.png
-│   └── tipografia-referencia.png
-├── paleta-cores.png
-├── moodboard-final.png
-└── README.md
-🎨 Elementos do moodboard
-Paleta de cores: tons terrosos e neutros, transmitindo confiabilidade e proximidade.
+Tecnologias
 
-Inspirações visuais: referências de design minimalista e moderno.
-
-Tipografia: fontes limpas e legíveis com toque humanizado.
-
-Texturas e formas: elementos orgânicos e detalhes que remetem à natureza.
-
-🛠️ Ferramentas utilizadas
-Canva
-
-Figma
-
-Coolors
-
-Pinterest (para curadoria visual)
-
-📌 Observações
-O moodboard é um ponto de partida criativo e pode sofrer ajustes conforme a evolução do projeto. Sua função é guiar, inspirar e alinhar expectativas visuais.
-
+💻 Ferramentas de análises: EXCEL / PowerPoint / Word
+🖥️ Metodologias: SCRUM / Green Belt / Kanban
+🗃️ Banco de dados: SQL Server, MySQL, SAS.
+🧰 Ferramentas de Análise de dados: Powerbi
+🌍 Outras: Microstrategy.
