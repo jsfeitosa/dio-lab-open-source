@@ -1,72 +1,24 @@
-Aqui tem uma contribuição de como fazer um MOODBOARD para uso pessoal e profissional
+Sobre
+Me chamo Janderson, minha primeira formação foi em 2010 como Bacharel em Administração de Empresas, onde aprendi todos os conceitos de como funcionam os departamentos das empresas e isso me fez enxergar o conceito de negócios de outra forma.
 
-🎯 O que é um Moodboard?
+Em 2013 ingressei na empresa de Seguros Mapfre como analista de sinistro de quebra de garantia, onde realizava a análise da documentação e fazia todo o acompanhamento de liquidação dos sinistros junto as Administradoras de consórcio.
 
-Um moodboard (ou painel de inspiração) é uma colagem visual de referências que expressam o tom, estilo, identidade e emoção de um projeto. Ele serve para alinhar ideias com a equipe, inspirar a criação e direcionar a estética do trabalho.
+Em 2018 iniciei minha pós graduação MBA em gestão de projetos e processos, no qual tive todo o
+conhecimento técnico das metodologias ágeis para uma melhor gestão de processos e no gerenciamento de projetos.
 
-🪄 Passo a passo para criar um moodboard
-1. Defina o objetivo
-Antes de começar, responda:
-Qual é o tema ou finalidade do moodboard?
-Para qual projeto ele será usado?
-Que sensação ou mensagem quero transmitir?
-Exemplos de objetivos:
-Criar identidade visual de uma marca
-Inspirar o design de um site ou app
-Guiar a decoração de um ambiente
-Apresentar uma ideia para cliente ou equipe
+Em 2019 ainda na Mapfre migrei para área de dados sendo responsável pela elaboração de relatórios de sinistro para as sucursais, diretoria regional e para a matriz na Espanha, com foco em projetos de
+melhorias e na criação de relatórios de sinistros por meio do uso de análise de dados, visualização de
+dados, técnicas de modelagem de dados, identificando tendências que ajudam os departamentos,
+gerentes e executivos na tomada de decisões de negócios da organização, mapeamento de processos e indicadores de KPI.
 
-2. Pesquise referências visuais
-Busque imagens, ilustrações, paletas de cores, texturas, fontes, padrões, frases, ícones, etc.
-Fontes úteis:
-Pinterest
-Behance
-Dribbble
-Unsplash / Pexels (imagens gratuitas)
-Revistas e catálogos (para moodboard físico)
+Em 2021 iniciei uma nova jornada na empresa Midway/Riachuelo, como analista de BI com a
+responsabilidade de fazer a elaboração e acompanhamento de indicadores financeiros da área de
+negócios de Seguros e Assistências, realizado extrações de ETL para análises preditivas e diagnósticos
+das lojas e do canal Call Center, com interação direta com áreas de CRM, produtos, MIS e T.I.
 
-3. Escolha uma paleta de cores
-Selecione de 3 a 6 cores que representem bem o estilo desejado.
-Ferramentas úteis:
-Coolors.co
-Adobe Color
+Em 2023 concluí minha segunda MBA em Business Intelligence para aprimorar meu
+conhecimento em análise de dados e estratégias de negócios.
 
-4. Separe os elementos mais relevantes
-Organize tudo o que reuniu e filtre:
-Elimine o que estiver fora do estilo ou em excesso
-Mantenha apenas o que faz sentido com o objetivo
-Agrupe por categorias: imagens, cores, fontes, inspirações de layout, etc
+Em 2024, estou como analista de BI Senior na empresa Caixa Consórcio, exercendo a função na área de CX/CRM/MKT, fazendo relatórios gerenciais, acompanhamento e mensuração de campanhas, realizando estudos de Persona, e todas as atividades que envolve a satisfação do Cliente na área comercial e demais áreas.
 
-5. Escolha a ferramenta para montagem
-🔹 Moodboard digital (mais prático):
-Canva
-Figma
-Miro
-Photoshop ou Illustrator
-[Google Slides / PowerPoint] (opção simples)
-
-🔸 Moodboard físico:
-Use cartolina, papel kraft ou prancheta
-Recorte imagens de revistas ou imprima referências
-Cole e organize manualmente
-Use elementos reais como tecidos, folhas, amostras de cor, etc.
-6. Monte a composição visual
-Organize os elementos visualmente:
-Distribua as imagens e cores com harmonia
-Use sobreposições, bordas ou grades
-Inclua palavras-chave ou frases que reforcem o conceito
-Dica: mantenha o layout limpo e com hierarquia visual.
-
-7. Revise e refine
-Veja se o moodboard está coerente com o objetivo
-Mostre para colegas ou cliente e peça feedback
-Ajuste o que for necessário
-
-9. Salve e compartilhe
-Exporte em PNG, JPEG ou PDF
-Compartilhe com a equipe ou stakeholders
-Guarde como referência para o desenvolvimento do projeto
-
-✅ Dica final:
-
-Um bom moodboard não precisa ser “bonito” no sentido final de design — ele precisa transmitir bem a ideia, o clima e o conceito do projeto. Pense nele como uma bússola visual.
+Tenho certeza que posso agregar muito com minha experiência e meu relacionamento interpessoal.
